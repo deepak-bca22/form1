@@ -1,0 +1,96 @@
+body{
+    background: rgb(141, 223, 218);
+    margin: 0;
+    padding: 0;
+}
+hr{
+    height: 1px;
+    width: 400px;
+    color: aliceblue;
+}
+h1{
+    font-size: 28px;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+form{
+    width: 600px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+    margin-top: 20px;
+    
+}
+form input[type="text"]{
+    height: 20px;
+    width: 500px;
+    padding: 4px;
+    border: none;
+    margin-left: 50px;
+    background: rgb(202, 242, 239);
+}
+form label{
+    margin-left: 50px;
+    color: rgb(40, 39, 39);
+}
+.gender input{
+    margin-left: 50px;
+    width: 10px;
+    gap: 2px;
+}
+h3{
+    height: 28px;
+    width: 508px;
+    background: rgb(202, 242, 239);
+    margin-left: 50px;
+    color: rgb(104, 102, 102);
+}
+.phone input{
+    height: 20px;
+    width: 500px;
+    padding: 4px;
+    border: none;
+    margin-left: 50px;
+    background: rgb(202, 242, 239);
+}
+textarea{
+    width: 500px;
+    padding: 4px;
+    border: none;
+    margin-left: 50px;
+    background: rgb(202, 242, 239);
+    height: 60px;
+
+}
+.address{
+    margin-top: 10px;
+}
+.email input{
+    height: 20px;
+    width: 500px;
+    padding: 4px;
+    border: none;
+    margin-left: 50px;
+    background: rgb(202, 242, 239);
+    margin-top: -60px;
+    margin-bottom: 20px;
+   
+
+}
+.email h5{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+button{
+    height: 30px;
+    width: 509px;
+    padding: 4px;
+    border: none;
+    margin-left: 50px;
+    background: rgb(11, 206, 50);
+    margin-top: -60px;
+    margin-top: 20px;
+    cursor: pointer;
+ 
+
+}
